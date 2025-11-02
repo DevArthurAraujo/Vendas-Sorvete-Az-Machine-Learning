@@ -1,1 +1,1 @@
-# Vendas-Sorvete-Az-MAchine-Learning
+# Vendas-Sorvete-Az-Machine-Learning
